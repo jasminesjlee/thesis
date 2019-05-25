@@ -5,4 +5,4 @@ The following line is an example of a line in my training set:
 
 The three-word noun phrase is "supermarket checkout machines", and since it is left branching, it is denoted with the label "1".
 
-The data was collected from Penn TreeBank and OneNotes. Though the original Penn TreeBank used flat NPs, the work of Vadas and Curran (2007) annotated the full structure of NPs in the Penn TreeBank’s WSJ corpus. With this, I was able to extract 10613 three-word noun phrases with gold labels. I also was able to extract 5419 three-word noun phrases with gold labels from OpenNotes. 
+The data was collected from Penn TreeBank and OntoNotes 5.0. Though the original Penn TreeBank used flat NPs, the work of Vadas and Curran (2007) annotated the full structure of NPs in the Penn TreeBank’s WSJ corpus. With this, I was able to extract 10613 three-word noun phrases with gold labels. I also was able to extract 5419 three-word noun phrases with gold labels from OntoNotes. 
