@@ -9,7 +9,7 @@ def eval(true_labels, pred_labels):
     with open(true_labels) as f:
         lines = f.readlines()
         for l in lines:
-            y_true.append(l.split('\t')[1])
+            y_true.append(l.split('\t')[-1])
     y_true = np.array(y_true)
     with open(pred_labels) as f:
         lines = f.readlines()

@@ -7,9 +7,9 @@ import re
 def writematch(match,branch):
     words = match.split(" ")
     if branch=="1":
-        return words[2][:-1]+" "+words[4][:-1]+" "+words[7][:-1]+'\t'+branch
+        return words[2][:-1]+"\t"+words[4][:-1]+"\t"+words[7][:-1]+'\t'+branch
     else:
-        return words[1][:-1]+" "+words[3][:-1]+" "+words[5][:-1]+'\t'+branch
+        return words[1][:-1]+"\t"+words[3][:-1]+"\t"+words[5][:-1]+'\t'+branch
 
 extracted_nps = open("extracted_nps.txt","w")
 dir = "/home1/l/leesunj/TreeBank3_np_v1.0/parsed/mrg/wsj"
