@@ -19,16 +19,10 @@ def eval(true_labels, pred_labels):
     print(s)
 def main():
     parser = argparse.ArgumentParser(description='Evaluation script')
-    parser.add_argument('-i', type=str,help='Path to pred')
-    parser.add_argument('-a', type=str, help='Path to gold')
+    parser.add_argument('-p', type=str,help='Path to pred', required=True)
+    parser.add_argument('-g', type=str, help='Path to gold', required=True)
     args = parser.parse_args()
-    if not args.i:
-        print('ERROR: The pred labels path is required')
-        parser.exit(1)
-    if not args.a:
-        print('ERROR: The gold labels folder is required')
-        parser.exit(1)
-    eval(args.i,args.a)
+    eval(args.g,args.p)
 
 if __name__ == '__main__':
     main()
