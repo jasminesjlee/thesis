@@ -38,13 +38,16 @@ http://delivery.acm.org/10.1145/1710000/1706547/p17-nakov.pdf?ip=71.232.158.215&
 
 ## References
 Arora, S., Liang, Y., & Ma, T. (2016). A simple but tough-to-beat baseline for sentence embeddings.
+
 Bergsma, S., & Wang, Q. I. (2007). Learning noun phrase query segmentation. In Proceedings of the 
 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational 
 Natural Language Learning (EMNLP-CoNLL).
+
 Bergsma, S., Yarowsky, D., & Church, K. (2011, June). Using large monolingual and bilingual corpora to 
 improve coordination disambiguation. In Proceedings of the 49th Annual Meeting of the 
 Association for Computational Linguistics: Human Language Technologies-Volume 1 (pp. 
 1346-1355). Association for Computational Linguistics.
+
 Lin, D. (1999, June). Automatic identification of non-compositional phrases. In Proceedings of the 37th 
 annual meeting of the Association for Computational Linguistics on Computational Linguistics (pp. 
 317-324). Association for Computational Linguistics.
