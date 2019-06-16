@@ -38,32 +38,29 @@ http://delivery.acm.org/10.1145/1710000/1706547/p17-nakov.pdf?ip=71.232.158.215&
 
 ## References
 Arora, S., Liang, Y., & Ma, T. (2016). A simple but tough-to-beat baseline for sentence embeddings.
-
 Bergsma, S., & Wang, Q. I. (2007). Learning noun phrase query segmentation. In Proceedings of the 
-2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational 
-Natural Language Learning (EMNLP-CoNLL).
-
+  2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational 
+  Natural Language Learning (EMNLP-CoNLL).
 Bergsma, S., Yarowsky, D., & Church, K. (2011, June). Using large monolingual and bilingual corpora to 
-improve coordination disambiguation. In Proceedings of the 49th Annual Meeting of the 
-Association for Computational Linguistics: Human Language Technologies-Volume 1 (pp. 
-1346-1355). Association for Computational Linguistics.
-
+  improve coordination disambiguation. In Proceedings of the 49th Annual Meeting of the 
+  Association for Computational Linguistics: Human Language Technologies-Volume 1 (pp. 
+  1346-1355). Association for Computational Linguistics.
 Lin, D. (1999, June). Automatic identification of non-compositional phrases. In Proceedings of the 37th 
-annual meeting of the Association for Computational Linguistics on Computational Linguistics (pp. 
-317-324). Association for Computational Linguistics.
+  annual meeting of the Association for Computational Linguistics on Computational Linguistics (pp. 
+  317-324). Association for Computational Linguistics.
 Mitchell, J., & Lapata, M. (2008). Vector-based models of semantic composition. proceedings of ACL-08: 
-HLT, 236-244.
+  HLT, 236-244.
 Partee, B. (1995). Lexical semantics and compositionality. An invitation to cognitive science: Language, 1, 
-311-360.
+  311-360.
 Shwartz, V., & Dagan, I. (2018). Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations. 
-arXiv preprint arXiv:1805.02442.
+  arXiv preprint arXiv:1805.02442.
 Shwartz, V., & Waterson, C. (2018). Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting 
-Noun Compounds using Paraphrases in a Neural Model. arXiv preprint arXiv:1803.08073.
+  Noun Compounds using Paraphrases in a Neural Model. arXiv preprint arXiv:1803.08073.
 Turney, P. D. (2012). Domain and function: A dual-space model of semantic relations and compositions. 
-Journal of Artificial Intelligence Research, 44, 533-585.
+  Journal of Artificial Intelligence Research, 44, 533-585.
 Wieting, J., Bansal, M., Gimpel, K., & Livescu, K. (2015). Towards universal paraphrastic sentence 
-embeddings. arXiv preprint arXiv:1511.08198.
+  embeddings. arXiv preprint arXiv:1511.08198.
 Yu, M., & Dredze, M. (2015). Learning Composition Models for Phrase Embeddings. Transactions Of The 
-Association For Computational Linguistics, 3, 227-242. Retrieved from 
-https://transacl.org/ojs/index.php/tacl/article/view/586
+  Association For Computational Linguistics, 3, 227-242. Retrieved from 
+  https://transacl.org/ojs/index.php/tacl/article/view/586
 
