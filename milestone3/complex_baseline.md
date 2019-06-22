@@ -1,7 +1,7 @@
 The more complex baseline that I used was a nearest neighbors baseline (by suggestion of CCB). For each noun phrase in the training set, the model computes a "phrase embedding" for each phrase by summing the pretrained word embeddings (Glove300D) for all the words in the phrase. The following are the metrics for different values of n_neighbors.
 
 To run the script on a given training file and test file, you can type the following into your terminal:
-  > python kmeans_baseline.py --train /PATH/TO/TRAINING/FILE --test /PATH/TO/TEST/FILE --out /NAME/OF/PREDICTIONS/FILE --n_neighbors <number_of_neighbors>
+  > python kmeans_baseline.py --train /PATH/TO/TRAINING/FILE --test /PATH/TO/TEST/FILE --out /NAME/OF/PREDICTIONS/FILE --n_neighbors <number_of_neighbors> --embeddings_file /PATH/TO/EMBEDDINGS/FILE
 
 The below table contains the performance of the model on the validation set.
 
