@@ -2,6 +2,8 @@ The more complex baseline that I used was a nearest neighbors baseline (by sugge
 
 To run the script on a given training file and test file, you can type the following into your terminal:
   > python kmeans_baseline.py --train /PATH/TO/TRAINING/FILE --test /PATH/TO/TEST/FILE --out /NAME/OF/PREDICTIONS/FILE --n_neighbors <number_of_neighbors> --embeddings_file /PATH/TO/EMBEDDINGS/FILE
+  
+If you do not enter anything for "n_neighbors", it will be set to 1 by default.
 
 The below table contains the performance of the model on the validation set.
 
