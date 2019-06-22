@@ -1,5 +1,6 @@
-The evaluation script is the file
-  eval.py
+# Evaluation Metric Description
+
+The evaluation script is the file "score.py".
   
 To run the script on a given predictions file and gold labels file, you can type the following into your terminal:
   > python score.py -p predictions_file -g goldlabels_file
