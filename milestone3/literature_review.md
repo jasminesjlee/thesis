@@ -36,19 +36,10 @@ Decision boundary features and context-based features were used. Decision bounda
 
 Context-based features such as trigram and fourgram web and query-database counts of the tokens around the decision boundary as well as additional neighboring words. For example, for the query “bank loan amortization schedule”, though “loan amortization” has a strong connection, we may nevertheless insert a break between them because “bank loan” and “amortization schedule” each have even stronger association.
 
-https://www.aclweb.org/anthology/P11-1135
-
-http://delivery.acm.org/10.1145/1880000/1873881/p886-pitler.pdf?ip=72.21.196.67&id=1873881&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1561154863_61d8628c829e7df13ca6cfb4f21361bc
-
 ## References
 Bergsma, S., & Wang, Q. I. (2007). Learning noun phrase query segmentation. In Proceedings of the 
   2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational 
   Natural Language Learning (EMNLP-CoNLL).
-  
-Bergsma, S., Yarowsky, D., & Church, K. (2011, June). Using large monolingual and bilingual corpora to 
-  improve coordination disambiguation. In Proceedings of the 49th Annual Meeting of the 
-  Association for Computational Linguistics: Human Language Technologies-Volume 1 (pp. 
-  1346-1355). Association for Computational Linguistics.
   
 Partee, B. (1995). Lexical semantics and compositionality. An invitation to cognitive science: Language, 1, 
   311-360.
