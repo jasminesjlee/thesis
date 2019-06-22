@@ -1,10 +1,10 @@
 # File Outline
 
-## Milestone 1
+### Milestone 1
 **thesis-milestone1.pdf**
 : Research proposal
 
-## Milestone 2
+### Milestone 2
 **datasplits**
 : Contains files with training split, validation split, test split
 
@@ -23,7 +23,7 @@
 **simple_baseline.md**
 : Description of simple baseline. Says what score your evaluation metric gives to the simple baseline for your test set.
 
-## Milestone 3
+### Milestone 3
 **complex_baseline.md**
 : Contains description of implemented complex baseline
 
