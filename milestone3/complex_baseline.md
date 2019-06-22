@@ -23,7 +23,7 @@ The below table contains the performance of the model on the test set.
 | 2           | 0.824497  | 0.823566 | 0.804627 |
 | 3           | 0.823624  | 0.829800 | 0.824247 |
 
-This model does significantly better than the majority baseline from milestone 2, whose results I show in the table below.
+This model does significantly better than the majority baseline from milestone 2, whose results I have included below for reference.
 
 | Precision | Recall   | F1       |
 |-----------|----------|----------|
