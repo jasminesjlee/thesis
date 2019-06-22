@@ -26,7 +26,7 @@ An initial method for solving the NP bracketing task that was first described in
 
 Lauer (1995) proposes the dependency model, which instead compares how semantically acceptable [w1] [w2] and [w1] [w3] are. If [w1] [w3] is more acceptable, then the phrase is labeled as left-branching. He argues that this is because there are many cases where [w1] [w2] is a plausible compound, and [w2] [w3] is a plausible compound and that often, [w2] is similar to [w3] whether or not the phrase is right-branching. The correct parse instead depends on whether w1 characterizes [w2] or [w3]. For example, given the phrase "calcium ion exchange:, both "calcium ion" and "ion exchange" are used frequently. The correct parse depends on whether "calcium" characterizes the "ions" or mediates the "exchange." Nakov and Hearst (2005a) also use web counts, but they incorporate additional counts from several variations on simple bigram queries, including queries for the pairs of words concatenated or joined by a hyphen.
 
-Vadas and Curran were one of the first to use a supervised approach to annotating the inner structure of NPs. They trained a Maximum Entropy classifier using annotated noun phrases from the Penn Treebank. For each query, they got a bigram count of [w1] [w2], a bigram count of [w2] [w3], and lexical features for all unigrams, bigrams, and the trigram within the NP.
+Vadas and Curran (2008) were one of the first to use a supervised approach to annotating the inner structure of NPs. They trained a Maximum Entropy classifier using annotated noun phrases from the Penn Treebank. For each query, they got a bigram count of [w1] [w2], a bigram count of [w2] [w3], and lexical features for all unigrams, bigrams, and the trigram within the NP.
 
 A task related to noun phrase parsing is that of query segmentation. The task of noun phrase bracketing is one that determines the syntactic structure of an noun phrase by predicting the bracketing--deciding whether the three-word noun phrase has a left or right-bracketing structure. On the other hand, the task of query segmentation handles the case where the query consists of multiple, separate noun phrases that need to be distinguished as separate entities. Though the two tasks of noun phrase bracketing and query segmentation are distinct, it is plausible that methodologies that are effective for query segmentation are also effective for noun phrase bracketing. 
 
@@ -41,6 +41,16 @@ Bergsma, S., & Wang, Q. I. (2007). Learning noun phrase query segmentation. In P
   2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational 
   Natural Language Learning (EMNLP-CoNLL).
   
+Lapata, M., & Keller, F. (2004). The web as a baseline: Evaluating the performance of unsupervised web-
+  based models for a range of NLP tasks. In Proceedings of the Human Language Technology Conference of 
+  the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004.
+  
+Lauer, M. (1995). Corpus statistics meet the noun compound: some empirical results. arXiv preprint cm
+  
+Nakov, P., & Hearst, M. (2005, June). Search engine statistics beyond the n-gram: Application to noun 
+  compound bracketing. In Proceedings of the Ninth Conference on Computational Natural Language 
+  Learning (pp. 17-24). Association for Computational Linguistics.
+
 Partee, B. (1995). Lexical semantics and compositionality. An invitation to cognitive science: Language, 1, 
   311-360.
   
@@ -52,6 +62,9 @@ Shwartz, V., & Waterson, C. (2018). Olive Oil is Made of Olives, Baby Oil is Mad
   
 Wieting, J., Bansal, M., Gimpel, K., & Livescu, K. (2015). Towards universal paraphrastic sentence 
   embeddings. arXiv preprint arXiv:1511.08198.
+  
+Vadas, D., & Curran, J. R. (2008, June). Parsing noun phrase structure with CCG. In Proceedings of ACL-
+  08: HLT (pp. 335-343).
   
 Yu, M., & Dredze, M. (2015). Learning Composition Models for Phrase Embeddings. Transactions Of The 
   Association For Computational Linguistics, 3, 227-242. Retrieved from 
