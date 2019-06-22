@@ -1,3 +1,5 @@
+# Complex Baseline Description
+
 The more complex baseline that I used was a nearest neighbors baseline (by suggestion of CCB). For each noun phrase in the training set, the model computes a "phrase embedding" for each phrase by summing the pretrained word embeddings for all the words in the phrase. The path of any file containing pretrained embeddings can be passed in to the script -- in my case, I used 300D Glove embeddings, which can be downloaded at https://nlp.stanford.edu/projects/glove/.
 
 To run the script on a given training file and test file, you can type the following into your terminal:
