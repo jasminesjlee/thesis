@@ -2,7 +2,7 @@ import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 from nltk.stem import WordNetLemmatizer
 import argparse
-import codecs
+import random
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Complex baseline')
@@ -10,6 +10,7 @@ if __name__ == '__main__':
     parser.add_argument('--test', type=str, help='Path to test file', required=True)
     parser.add_argument('--out', type=str, help='Path to output file', default="pred.txt")
     parser.add_argument('--n_neighbors', type=int, help='Number neighbors to consider in KNN', default=1)
+    parser.add_argument('--embeddings_file', type=str, help='Embeddings file', required=True)
     args = parser.parse_args()
 
     lemmatizer = WordNetLemmatizer()
@@ -17,7 +18,7 @@ if __name__ == '__main__':
     print("Loading Glove Model")
     model = {}
 
-    f = open("glove.6B.300d.txt", 'r+', encoding="utf-8")
+    f = open(args.embeddings_file, 'r+', encoding="utf-8")
 
     train = open(args.train).readlines()
     test = open(args.test).readlines()
@@ -31,10 +32,12 @@ if __name__ == '__main__':
 
     print("Converting data...")
 
+    _, emb = random.choice(list(model.items()))
+
     y = np.zeros(len(train))
-    X = np.zeros((len(train),300))
+    X = np.zeros((len(train),len(emb)))
     y_test = np.zeros(len(test))
-    X_test = np.zeros((len(test), 300))
+    X_test = np.zeros((len(test), len(emb)))
 
     for i, l in enumerate(train):
         y[i] = l.split('\t')[-1]
