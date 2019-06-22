@@ -45,7 +45,7 @@ Lapata, M., & Keller, F. (2004). The web as a baseline: Evaluating the performan
   based models for a range of NLP tasks. In Proceedings of the Human Language Technology Conference of 
   the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004.
   
-Lauer, M. (1995). Corpus statistics meet the noun compound: some empirical results. arXiv preprint cm
+Lauer, M. (1995). Corpus statistics meet the noun compound: some empirical results. 
   
 Nakov, P., & Hearst, M. (2005, June). Search engine statistics beyond the n-gram: Application to noun 
   compound bracketing. In Proceedings of the Ninth Conference on Computational Natural Language 
