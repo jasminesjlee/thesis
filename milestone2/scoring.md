@@ -2,7 +2,7 @@ The evaluation script is the file
   eval.py
   
 To run the script on a given predictions file and gold labels file, you can type the following into your terminal:
-  > python eval.py predictions_file goldlabels_file
+  > python score.py predictions_file goldlabels_file
   
 The predictions file should be a file with one label "0" (right-branching) or "1" (left-branching) on each line. The gold labels file should be a file where each line contains three-word noun phrase and corresponding label, and each line should have the format "word1\tword2\tword3\tlabel".
 
