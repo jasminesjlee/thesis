@@ -12,3 +12,6 @@
 *Option 3*
 - use pretrained model to predict paraphrase for (w1, w3) and for (w2, w3) (like Lauer's paper?)
 - use one w/ higher probability
+
+Comments:
+- This means I wouldn't have a training set, just using pretrained model to do predictions on test set
