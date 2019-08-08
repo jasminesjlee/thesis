@@ -1,4 +1,3 @@
-from sklearn.linear_model import SGDClassifier
 from nltk.stem import WordNetLemmatizer
 import argparse
 import numpy as np
