@@ -14,24 +14,12 @@ if __name__ == '__main__':
     parser.add_argument('--templates_file', type=str, help='Embeddings file', required=True)
     args = parser.parse_args()
 
-    lemmatizer = WordNetLemmatizer()
     # load spacy POS tagger
     nlp = spacy.load('en_core_web_sm')
-
-    print("Loading Glove Model")
-    model = {}
-
-    f = open(args.embeddings_file, 'r+', encoding="utf-8")
-
+    
+    # read data
     train = open(args.train).readlines()
     test = open(args.test).readlines()
-
-    for line in f:
-        split_line = line.split()
-        word = split_line[0]
-        embedding = np.array([float(val) for val in split_line[1:]])
-        model[word] = embedding
-    print("Done.", len(model), " words loaded!")
 
     print("Processing templates file...")
     templates = [[], [], []]
@@ -43,16 +31,41 @@ if __name__ == '__main__':
         template_to_id[line.strip()] = len(template_to_id)
 
     print("Extracting features...")
-
-    _, emb = random.choice(list(model.items()))
-
+    
+    
     y = np.zeros(len(train))
     X = np.zeros((len(train), len(template_to_id)*2))
     y_test = np.zeros(len(test))
     X_test = np.zeros((len(test), len(template_to_id)*2))
-
+    
+    # extract features for training data
     for i, l in enumerate(train):
         y[i] = l.split('\t')[-1]
+        w1, w2, w3 = l.split('\t')[:-1]
+        sent_feat = []
+        for word in w2, w3:
+            # want to see how many 3/4/5-grams of w1 w2 fit the template vs.
+            # how many 3/4/5-grams of w2 w3 fit the template
+            with open(args.ngrams_file) as f:
+                for line in f:
+                    line.strip('"').strip()
+                    line_pos = []
+                    wordpair_feat = np.zeros(len(template_to_id) * 2)
+                    if line.startswith(word):
+                        # extract POS tags of line
+                        sent = nlp(line)
+                        for token in sent:
+                            line_pos.append(token.pos_)
+                        for temp in templates[len(sent)-3]:
+                            # check if this template matches the current ngram
+                            if " ".join(line_pos[1:-1]) == temp:
+                                wordpair_feat[template_to_id[temp]] += 1
+            sent_feat += wordpair_feat
+        X[i] = sent_feat
+        
+     # extract features for test data
+    for i, l in enumerate(test):
+        y_test[i] = l.split('\t')[-1]
         w1, w2, w3 = l.split('\t')[:-1]
         X_curr = []
         for word in w2, w3:
@@ -74,7 +87,12 @@ if __name__ == '__main__':
                             if " ".join(line_pos[1:-1]) == temp:
                                 curr_word[template_to_id[temp]] += 1
             X_curr += curr_word
-        X[i] = X_curr
+        X_test[i] = X_curr
+
+
+
+
+
 
 
 
