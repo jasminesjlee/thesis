@@ -7,21 +7,21 @@ declare -a ngram_folders=(
 )
 
 declare -a template_files=(
-"template_grep_3.txt"
-"template_grep_4.txt"
-"template_grep_5.txt"
+"template_grep/template_grep_3.txt"
+"template_grep/template_grep_4.txt"
+"template_grep/template_grep_5.txt"
 )
 
 declare -a word_files=(
-"train_lemma.txt"
-"val_lemma.txt"
-"test_lemma.txt"
+"lemma_data/train_lemma.txt"
+"lemma_data/val_lemma.txt"
+"lemma_data/test_lemma.txt"
 )
 
 declare -a write_files=(
-"ngrams_3.txt"
-"ngrams_4.txt"
-"ngrams_5.txt"
+"filtered_ngrams/ngrams_3.txt"
+"filtered_ngrams/ngrams_4.txt"
+"filtered_ngrams/ngrams_5.txt"
 )
 
 # we iterate through 3grams, 4grams, 5grams
