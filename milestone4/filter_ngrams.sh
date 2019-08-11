@@ -24,20 +24,25 @@ declare -a write_files=(
 "ngrams_5.txt"
 )
 
-
+# we iterate through 3grams, 4grams, 5grams
 for idx in "${!ngram_folders[@]}"
 do
     echo "LOADING FROM NGRAMS $idx"
+    # for each ngram set, we use different ngram file, different file of templates, and write to different filtered ngram file
     ngram_folder=${ngram_folders[$idx]}
     template_file=${template_files[$idx]}
     write_file=${write_files[$idx]}
+    # for each ngram set, we extract ngrams for training file, valid file, test file
     for word_file in ${word_files[@]}
     do
 	echo "file : $word_file"
+	# iterate through all templates: of form '${w1} [a-zA-Z]+ {w2}'
         while IFS='	' read -r t1
         do
-            while IFS='	' read -r w1 w2 w3
+            # get each noun phrase
+            while IFS='	' read -r w1 w2 w3 w4
             do
+		# extract all occurrences of the noun phrase with the template
                 zcat $ngram_folder/* | grep -E "$t1" >> $write_file
             done <$word_file
         done <$template_file
