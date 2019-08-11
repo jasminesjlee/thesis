@@ -1,0 +1,3208 @@
+Denver	brokerage	firm	0
+
+one	case	study	0
+
+Philip	Morris	Cos	1
+
+likely	first	step	0
+
+derivative	security	offering	0
+
+Simulated	golf	game	0
+
+various	asseet	category	0
+
+Social	Security	benefit	1
+
+durable	good	report	1
+
+average	daily	volume	0
+
+America	West	plane	1
+
+light	trading	volume	0
+
+Hollywood	boiler	room	0
+
+1987	market	crash	0
+
+stock	market	role	1
+
+New	York	native	1
+
+Two	big	stock	0
+
+popular	HyperCard	software	0
+
+domestic	bond	issue	0
+
+Banco	Bilbao	Vizcaya	0
+
+lower	price	level	0
+
+special	IRS	project	0
+
+SONG	founder	Jeremy	1
+
+potential	client	conflict	0
+
+National	Pizza	unit	1
+
+radio	station	personnel	1
+
+corrupt	revenue	collector	0
+
+Coe	Kerr	Gallery	1
+
+County	NatWest	Investment	1
+
+British	gold	standard	0
+
+Treasury	bill	rate	1
+
+UAL	takeover	plan	0
+
+National	Football	League	0
+
+National	Pocket	Billiards	0
+
+fellow	Channel	Islanders	0
+
+SALES	TAX	RECORDS	1
+
+Japanese	buy	order	0
+
+Carter	administration	budget	1
+
+Levi	Strauss	Associates	1
+
+oil	exploration	activity	1
+
+much	revenue	growth	0
+
+collagen	corneal	shield	0
+
+different	smoking	pattern	0
+
+OTC	market	maker	0
+
+six	felony	count	0
+
+full	legal	might	0
+
+certain	coup	plot	0
+
+state	Supply	Regulator	0
+
+Transportation	department	official	1
+
+big	ranch	state	0
+
+Most	oil	company	0
+
+pension	fund	official	1
+
+literal	green	thumb	0
+
+Communist	Party	plenum	1
+
+International	Financial	Futures	0
+
+other	cable	operator	0
+
+key	pawn	thrust	0
+
+stock	market	circle	1
+
+requisite	background	information	0
+
+broken	water	heater	0
+
+immediate	family	member	0
+
+Class	A	common	1
+
+federal	Bankruptcy	Code	0
+
+major	dress	manufacturer	0
+
+several	retirement	plan	0
+
+Equitec	Chairman	Richard	1
+
+several	more	month	0
+
+Canadian	export	restriction	0
+
+bank	secrecy	requirement	1
+
+illegal	political	contribution	0
+
+Faberge	Organic	shampoo	0
+
+Quaker	Capital	Management	0
+
+proper	design	standard	0
+
+major	computer	failure	0
+
+Big	Board	official	1
+
+prior	fiscal	year	0
+
+heated	local	debate	0
+
+NFL	Players	Association	0
+
+Straits	Times	Industrial	1
+
+massive	vested	interest	0
+
+underground	computer	center	0
+
+two	petition	drive	0
+
+Castle	Harlan	group	1
+
+premature	cabinet	vote	0
+
+Walter	Reed	Hospital	1
+
+steep	wage	increase	0
+
+state	loan	guarantee	0
+
+Asset	Backed	Certificates	1
+
+other	age	group	0
+
+Chancellor	Helmut	Kohl	0
+
+criminal	tax	charge	0
+
+Lexus	sale	projection	0
+
+Supreme	Court	history	1
+
+bank	trade	association	0
+
+Texas	American	Energy	1
+
+two	big	division	0
+
+new	Reinforced	Motorized	0
+
+NEW	ENGLAND	CRITICAL	1
+
+charismatic	Vietnam	vet	0
+
+opulent	life	style	0
+
+five	major	bank	0
+
+central	processing	unit	0
+
+International	Trade	Commission	1
+
+chief	operating	officer	0
+
+Air	Force	facility	1
+
+metal	container	division	1
+
+major	market	activity	0
+
+Giuliani	campaign	manager	0
+
+new	fashion	trend	0
+
+other	food	company	0
+
+Macmillan	Publishing	Co	1
+
+Ostrander	Capital	Management	0
+
+British	brokerage	concern	0
+
+Swiss	metal	work	0
+
+Madrid	hotel	room	0
+
+amateur	radio	operator	0
+
+Owner	Al	Brownstein	0
+
+Baseball	Card	News	1
+
+Community	Reinvestment	Act	1
+
+floor	brokerage	fee	1
+
+Shui	On	Group	1
+
+major	structural	damage	0
+
+worst	seven	state	0
+
+Eric	Anthony	Abrahams	0
+
+Reagan	White	House	0
+
+Interstate	Commerce	Commission	0
+
+opposition	labor	group	0
+
+bitter	power	struggle	0
+
+Xinhua	News	Agency	0
+
+Third	World	country	1
+
+first	vice	president	0
+
+Atlantic	Monthly	Press	0
+
+direct	marketing	unit	1
+
+traditional	merchandise	trade	0
+
+air	safety	director	1
+
+Backup	computer	tape	0
+
+Pan	Africanist	Congress	1
+
+universal	variable	life	0
+
+three	specific	action	0
+
+great	mystery	novelist	0
+
+State	Statistical	Bureau	0
+
+second	key	contract	0
+
+White	House	ceremony	1
+
+alleged	criminal	breach	0
+
+current	market	value	0
+
+Union	Pacific	Corp	1
+
+limited	sale	potential	0
+
+Hot	ballot	topic	0
+
+San	Diego	County	1
+
+Stewart	Information	Services	0
+
+only	brief	shower	0
+
+many	i860	microprocessor	0
+
+five	business	day	0
+
+beefy	union	leader	0
+
+real	dollar	term	0
+
+Swedish	publishing	company	0
+
+REAL	ESTATE	INVESTMENT	1
+
+Roman	numeral	IX	0
+
+human	cancer	cell	0
+
+fiscal	1990	deficit	0
+
+devastated	South	Bronx	0
+
+patent	litigation	experience	1
+
+New	York	restaurant	1
+
+federal	death	sentence	0
+
+former	executive	vice	0
+
+network	access	revenue	1
+
+Norfolk	Southern	share	1
+
+Belgian	computer	system	0
+
+potential	client	conflict	0
+
+potential	breeding	ground	0
+
+rare	childhood	cancer	0
+
+village	bank	manager	0
+
+premier	sport	event	0
+
+criminal	racketeering	charge	1
+
+quota	share	reinsurance	0
+
+California	pastry	chef	0
+
+federal	saving	bank	0
+
+Los	Angeles	hotel	1
+
+West	German	mark	0
+
+Video	Storyboard	Tests	0
+
+other	stock	index	0
+
+Air	France	spokeswoman	1
+
+bilingual	medical	practice	0
+
+direct	cash	assistance	0
+
+former	Oklahoma	governor	0
+
+John	Deere	Horicon	1
+
+Applied	Solar	spokesman	1
+
+British	General	Electric	0
+
+Sit	Investment	Associates	0
+
+first	overseas	purchase	0
+
+influential	Rio	Group	0
+
+top	money	fund	0
+
+Budget	director	Darman	1
+
+Laurel	race	track	0
+
+presidential	task	force	0
+
+Super	301	provision	1
+
+helicopter	spare	part	0
+
+pay	parity	case	1
+
+several	grain	company	0
+
+first	major	event	0
+
+chief	executive	officer	0
+
+nonchlorinated	dishwasher	detergent	0
+
+Hong	Kong	jewelry	1
+
+broad	stock	market	0
+
+other	energy	company	0
+
+San	Francisco	attorney	1
+
+television	picture	tube	0
+
+public	relation	firm	1
+
+United	Steelworkers	request	1
+
+advanced	propulsion	system	1
+
+recent	coup	attempt	0
+
+high	debt	ratio	0
+
+United	Cancer	Council	0
+
+American	business	history	0
+
+assorted	land	buy	0
+
+other	revenue	bill	0
+
+Cosmetics	Sales	Ploys	0
+
+Shearson	Lehman	Hutton	0
+
+Ratners	Group	PLC	1
+
+CF	Motor	Freight	0
+
+Schroders	investment	bank	0
+
+American	Medical	spokeswoman	1
+
+France	Finance	Quatre	0
+
+Advanced	Research	Projects	0
+
+huge	gas	field	0
+
+executive	vice	president	0
+
+past	few	year	0
+
+MacMillan	Bloedel	Ltd	1
+
+federal	capitalization	requirement	0
+
+unique	government	activity	0
+
+sophisticated	software	program	0
+
+exclusive	purchase	option	0
+
+corporate	vice	president	0
+
+foreign	development	venture	1
+
+program	trading	situation	1
+
+immediate	postwar	year	0
+
+huge	production	system	0
+
+only	major	sector	0
+
+federal	district	court	0
+
+Irish	travel	agent	0
+
+Chicago	money	manager	0
+
+back	accounting	room	0
+
+intelligence	data	handling	1
+
+artifical	sea	wall	0
+
+annual	autumn	increase	0
+
+extraordinary	government	work	0
+
+Western	motion	picture	0
+
+American	depositary	receipt	0
+
+foreign	leasing	company	0
+
+major	Chinese	leader	0
+
+other	minority	group	0
+
+low	blood	sugar	0
+
+former	Gandhi	ally	0
+
+particular	market	situation	0
+
+Fleet	Street	reaction	1
+
+employee	investment	fund	0
+
+strong	administrative	background	0
+
+tentative	contract	agreement	0
+
+current	extermination	campaign	0
+
+Strong	farmer	selling	0
+
+Mary	Elizabeth	Ariail	0
+
+sale	tax	increase	1
+
+20	Western	cigarette	0
+
+past	construction	cost	0
+
+senior	vice	president	0
+
+Midwesco	Filter	Resources	0
+
+HUD	spending	bill	0
+
+Local	bar	association	0
+
+special	tax	break	0
+
+priority	watch	list	0
+
+annual	price	growth	0
+
+enhanced	indexing	technique	0
+
+pro	rata	distribution	0
+
+sinking	fund	debenture	1
+
+investment	security	division	1
+
+faster	growth	rate	0
+
+more	exchange	member	0
+
+revised	takeover	offer	0
+
+engineered	metal	part	0
+
+gain	tax	reduction	1
+
+Keio	Teito	Electric	1
+
+major	business	line	0
+
+Nursing	Home	Patients	1
+
+few	bright	spot	0
+
+early	Umkhonto	leader	0
+
+MANAGER	REPLICATION	FUNDS	0
+
+mild	cardiac	condition	0
+
+federal	bankruptcy	law	0
+
+next	100	year	0
+
+Anchor	Glass	purchase	1
+
+steel	rod	minimill	1
+
+Lakeland	First	Financial	0
+
+light	industrial	product	0
+
+Ashwood	Investment	Club	0
+
+international	oil	market	0
+
+Omron	Tateishi	Electronics	1
+
+total	direct	mail	0
+
+soybean	future	contract	1
+
+De	Beers	mine	1
+
+only	fractional	move	0
+
+Wharton	School	finance	1
+
+Stuart	Lane	Russel	0
+
+new	ad	agency	0
+
+Coleco	Industries	Inc	1
+
+sharp	price	decline	0
+
+dumbest	machine	tool	0
+
+coil	processing	facility	1
+
+poor	exchange	rate	0
+
+animal	right	protester	1
+
+190	point	drop	0
+
+weak	corporate	profit	0
+
+other	prospective	purchaser	0
+
+Colorado	River	town	1
+
+Western	Gas	System	0
+
+mere	75	case	0
+
+North	America	operation	1
+
+Median	family	income	0
+
+national	labor	pact	0
+
+dynamic	Scott	Thatcher	0
+
+biggest	rice	dealer	0
+
+daily	news	review	0
+
+Defense	Department	spending	1
+
+Joint	Economic	Committee	0
+
+civil	racketeering	law	1
+
+firm	monetary	policy	0
+
+favorable	brokerage	recommendatons	0
+
+entire	data	base	0
+
+jittery	capital	market	0
+
+continuous	economic	expansion	0
+
+factory	order	report	1
+
+New	Cleveland	Campaign	0
+
+interest	rate	differential	1
+
+new	tax	money	0
+
+Las	Colinas	complex	1
+
+other	personal	expense	0
+
+interest	rate	saving	1
+
+military	special	force	0
+
+BAY	AREA	COMMUTERS	1
+
+American	Pioneer	Life	1
+
+British	monetary	policy	0
+
+San	Francisco	Examiner	1
+
+narrow	American	strategy	0
+
+almost	everyone	else	0
+
+United	States	Information	1
+
+South	San	Francisco	0
+
+waterworks	computer	system	0
+
+Toyota	Motor	Corp	1
+
+own	peace	plan	0
+
+French	food	group	0
+
+United	Technologies	Inc	1
+
+certain	unilateral	transfer	0
+
+Purloined	Palm	Trees	0
+
+big	computing	task	0
+
+late	night	entertainment	1
+
+state	gasoline	tax	0
+
+small	magnetic	field	0
+
+Dresdner	Bank	AG	1
+
+other	Emhart	unit	0
+
+rookie	wage	scale	0
+
+solid	growth	path	0
+
+consumer	price	index	1
+
+New	Product	News	1
+
+similar	sharp	slowing	0
+
+higher	interest	margin	0
+
+Frankfurt	Stock	Exchange	0
+
+Flexible	portfolio	fund	1
+
+lower	operating	earnings	0
+
+American	business	owner	0
+
+laser	warning	receiver	0
+
+largest	business	organization	0
+
+New	York	trade	1
+
+General	Electric	Capital	1
+
+ranking	minority	member	0
+
+weak	employment	report	0
+
+precious	natural	resource	0
+
+proposed	purchase	price	0
+
+most	member	nation	0
+
+inadequate	consumer	research	0
+
+International	Commodities	Clearing	0
+
+next	several	day	0
+
+BetaWest	Properties	unit	1
+
+chief	investment	officer	0
+
+Bankers	Trust	spokesman	1
+
+typical	office	machine	0
+
+blanket	reporting	requirement	1
+
+next	five	year	0
+
+key	interest	rate	0
+
+current	Steppenwolf	production	0
+
+two	key	advantage	0
+
+Traded	Options	Market	1
+
+airline	analyst	Kevin	1
+
+TransAtlantic	Holdings	PLC	1
+
+San	Francisco	destruction	1
+
+Givaudan	Far	East	0
+
+small	consulting	outfit	0
+
+several	Japanese	group	0
+
+former	company	consultant	0
+
+small	net	loss	0
+
+several	possible	plan	0
+
+own	consulting	company	0
+
+recent	diversification	attempt	0
+
+23	exotic	tongue	0
+
+one	other	issue	0
+
+New	York	brokerage	1
+
+six	uniramous	appendage	0
+
+late	price	surge	0
+
+Flemish	game	show	0
+
+Navigation	Mixte	share	1
+
+employee	benefit	division	1
+
+new	cruise	ship	0
+
+new	financial	product	0
+
+chief	cabinet	secretary	0
+
+art	porcelain	company	1
+
+Winchester	disk	drive	0
+
+flight	attendant	duty	1
+
+small	American	company	0
+
+veteran	union	organizer	0
+
+fixed	share	price	0
+
+Harlem	Hospital	Center	0
+
+true	performance	label	0
+
+potential	debt	issuer	0
+
+ambitious	production	schedule	0
+
+many	market	player	0
+
+limited	dollar	loss	0
+
+recent	antitrust	case	0
+
+fearful	Black	Monday	0
+
+family	banking	empire	0
+
+several	other	people	0
+
+other	existing	requirement	0
+
+past	30	day	0
+
+two	airline	stock	0
+
+Paul	Gauguin	watercolor	1
+
+federal	fund	rate	1
+
+Securities	Reform	Act	1
+
+narrow	tax	break	0
+
+British	Airways	Chairman	1
+
+combined	market	share	0
+
+Colombian	drug	bos	0
+
+higher	octane	gasoline	1
+
+Hong	Kong	company	1
+
+only	staff	physician	0
+
+cancer	suppressor	gene	0
+
+school	district	general	1
+
+retail	PC	market	0
+
+usual	procedural	obstacle	0
+
+Registered	Financial	Planners	0
+
+only	company	unit	0
+
+Direct	Marketing	Association	1
+
+monthly	trade	gap	0
+
+higher	transport	cost	0
+
+Credit	Lyonnais	purchase	1
+
+White	House	chief	1
+
+actor	Nicolas	Cage	0
+
+inverse	trading	relationship	0
+
+basic	indexing	service	0
+
+mail	room	staff	1
+
+chief	executive	position	0
+
+quarterly	dividend	check	0
+
+council	research	director	0
+
+temporary	pipeline	shutdown	0
+
+new	ad	strategy	0
+
+Avions	Marcel	Dassault	0
+
+Escudome	sport	vehicle	0
+
+severe	structural	damage	0
+
+New	York	Institute	1
+
+Water	Products	Company	1
+
+International	Mobile	Machines	0
+
+firm	trading	price	0
+
+Marguerite	Whitley	May	0
+
+archaic	Filipino	word	0
+
+celebrity	interview	program	0
+
+such	program	trade	0
+
+Florida	Publishing	Co	1
+
+State	Department	official	1
+
+domestic	interest	rate	0
+
+FEDERAL	JUDICIAL	SALARIES	0
+
+health	care	service	1
+
+backbench	Tory	member	0
+
+higher	octane	gasoline	1
+
+major	market	activity	0
+
+Tennessee	Valley	Authority	1
+
+automatic	number	information	0
+
+specific	time	period	0
+
+British	food	producer	0
+
+first	budget	summit	0
+
+Midwestern	department	store	0
+
+Southern	agriculture	lawmaker	0
+
+other	cable	network	0
+
+Kawasaki	Heavy	Industries	0
+
+entry	level	machine	1
+
+William	Au	Yeung	0
+
+alternative	egg	product	0
+
+Phillips	Petroleum	share	1
+
+tight	trading	pattern	0
+
+special	graphic	feature	0
+
+Canton	Trade	Fair	0
+
+John	Kenneth	Galbraith	0
+
+Kansas	City	Fed	1
+
+Legal	Defense	Fund	1
+
+Many	plant	floor	0
+
+Wedbush	Morgan	Securities	1
+
+Israeli	passenger	bus	0
+
+impromptu	news	conference	0
+
+Free	State	Glass	1
+
+DDB	Needham	agency	1
+
+new	housing	tract	0
+
+low	room	rate	0
+
+Dorrance	family	member	1
+
+Positive	currency	rate	0
+
+various	regulatory	agency	0
+
+great	dollar	bear	0
+
+Nissan	executive	vice	0
+
+old	MGM	studio	0
+
+Treasury	bond	price	1
+
+senior	banking	specialist	0
+
+only	industry	group	0
+
+John	Francis	Angier	0
+
+overseas	vehicle	production	0
+
+Prime	Minister	Ozal	1
+
+greater	equity	participation	0
+
+overall	growth	rate	0
+
+joint	development	agreement	0
+
+Hang	Seng	index	1
+
+former	UPS	employee	0
+
+first	nine	month	0
+
+New	York	Mercantile	1
+
+state	appellate	division	0
+
+30	year	mortgage	1
+
+entire	abortion	question	0
+
+California	State	University	0
+
+public	equity	security	0
+
+San	Francisco	area	1
+
+many	rival	machine	0
+
+Loud	rock	music	0
+
+entire	shipbuilding	industry	0
+
+percentage	price	gain	0
+
+big	block	house	0
+
+soft	commodity	specialist	1
+
+past	few	day	0
+
+Atlanta	check	printer	0
+
+much	processing	capability	0
+
+endowment	fund	contribution	1
+
+four	consecutive	month	0
+
+major	semiconductor	producer	0
+
+First	Gibraltar	Bank	0
+
+mandatory	joint	appearance	0
+
+bold	palace	revolt	0
+
+Angolan	rebel	leader	1
+
+Bugs	Bunny	rerun	1
+
+only	foreign	currency	0
+
+Tax	Reform	Act	1
+
+Acadia	Partners	Limited	1
+
+big	spending	bill	0
+
+Gregory	Damonne	Brown	0
+
+little	new	information	0
+
+regular	trading	hour	0
+
+first	10	page	0
+
+group	vice	president	0
+
+property	insurance	rate	1
+
+same	age	group	0
+
+Vice	Chairman	William	1
+
+British	air	time	0
+
+October	employment	data	0
+
+capital	good	sector	1
+
+Irish	bagpipe	band	0
+
+deficit	reduction	bill	1
+
+omnibus	housing	bill	0
+
+Chase	Senior	Vice	0
+
+government	system	sector	1
+
+New	Jersey	Turnpike	1
+
+most	judicial	decision	0
+
+venerable	Akio	Morita	0
+
+New	Democracy	Party	1
+
+press	secretary	Marlin	1
+
+state	security	group	0
+
+past	few	year	0
+
+analyst	John	McMillin	0
+
+employee	stock	ownership	0
+
+central	computer	network	0
+
+strict	price	competition	0
+
+corporate	debt	market	1
+
+recent	Japanese	acquisition	0
+
+1989	model	year	1
+
+Other	Saatchi	unit	0
+
+open	market	operation	0
+
+new	ideological	test	0
+
+buglike	Carol	minicar	0
+
+Indiana	duckling	mousseline	0
+
+black	leather	skirt	0
+
+other	timber	interest	0
+
+transitional	Philadelphia	neighborhood	0
+
+possible	fee	seizure	0
+
+average	interest	rate	0
+
+superficial	medium	interview	0
+
+Trinity	Investment	Management	0
+
+current	fiscal	year	0
+
+Merrill	Lynch	group	1
+
+Other	RJR	issue	0
+
+strategic	Salang	Highway	0
+
+past	two	year	0
+
+enough	common	sense	0
+
+investment	banking	house	1
+
+new	design	approach	0
+
+Investment	Index	Technologies	0
+
+New	York	judge	1
+
+life	insurance	product	1
+
+few	card	holder	0
+
+hair	care	account	1
+
+Target	discount	store	0
+
+rock	star	Jon	1
+
+USACafes	Limited	Partnership	0
+
+senior	financial	economist	0
+
+previous	reporting	period	0
+
+my	day	diamond	0
+
+campaign	spending	limit	1
+
+vigorous	private	sector	0
+
+New	England	Journal	1
+
+Deb	Shops	share	1
+
+more	leisure	activity	0
+
+simple	block	letter	0
+
+Fannie	Mae	Remic	1
+
+whole	private	network	0
+
+home	health	care	0
+
+President	de	Klerk	0
+
+Editor	Hasse	Olsson	0
+
+yellow	fire	hose	0
+
+state	statistical	institute	0
+
+federal	highway	aid	0
+
+Ford	Motor	Credit	1
+
+EC	growth	forecast	0
+
+semiconductor	research	project	0
+
+Big	Board	spokesman	1
+
+official	China	Daily	0
+
+former	Chief	Justice	0
+
+Milstar	communication	satellite	0
+
+Renaissance	President	Frank	1
+
+new	aircraft	carrier	0
+
+larger	egg	producer	0
+
+Consumer	Price	Index	0
+
+Sung	Won	Sohn	0
+
+Mellon	Capital	Management	0
+
+divisive	litigation	approach	0
+
+northern	Mississippi	border	0
+
+lower	tax	payment	0
+
+own	novel	design	0
+
+Kidder	investment	banker	0
+
+junk	bond	fund	1
+
+Famous	Teddy	Z	0
+
+big	important	people	0
+
+local	distribution	company	0
+
+chemist	John	Bockris	0
+
+Chairman	Pierre	Lortie	0
+
+regular	commuter	ferry	0
+
+largest	cash	prize	0
+
+Financial	District	wage	1
+
+endless	hiding	place	0
+
+major	wine	region	0
+
+Counter	Spy	Shop	1
+
+building	supply	company	1
+
+Barclays	De	Zoete	0
+
+Equitable	Life	Assurance	0
+
+multilayer	plastic	bag	0
+
+Valentin	Von	Korff	0
+
+Grand	Cayman	branch	1
+
+weak	chemical	price	0
+
+government	regulatory	agency	0
+
+British	jewelry	market	0
+
+gritty	machine	factory	0
+
+Waertsilae	Marine	director	1
+
+other	trade	area	0
+
+MONEY	MARKET	FUNDS	1
+
+Law	Debenture	Trust	0
+
+Souper	Combo	microwave	1
+
+Liberal	Democratic	Party	1
+
+gospel	chord	progression	0
+
+circulation	rate	base	0
+
+same	quantum	leap	0
+
+largest	volume	decline	0
+
+sweeping	structural	change	0
+
+criminal	defense	attorney	1
+
+adjacent	Manhattan	Center	0
+
+several	highlight	table	0
+
+IMA	Holdings	Corp	1
+
+Automated	Data	Processing	0
+
+death	penalty	case	1
+
+Federal	Bankruptcy	Code	0
+
+Anchor	Glass	Container	0
+
+two	company	official	0
+
+better	child	care	0
+
+complete	darkroom	starter	0
+
+major	electronics	problem	0
+
+home	shopping	venture	1
+
+Economics	Minister	Helmut	1
+
+broad	economic	trend	0
+
+staple	food	item	0
+
+group	quality	program	0
+
+own	reorganization	plan	0
+
+several	best	seller	0
+
+past	six	month	0
+
+severe	blood	anemia	0
+
+Vision	Banc	insider	1
+
+11th	consecutive	quarter	0
+
+overseas	manufacturing	capacity	0
+
+China	trade	expert	0
+
+major	telephone	company	0
+
+Redevelopment	Financing	Authority	0
+
+many	financial	market	0
+
+Long	Island	potato	1
+
+veteran	Jewish	comedian	0
+
+possible	earthquake	damage	0
+
+short	interest	data	1
+
+Banana	Industry	Association	1
+
+foreign	stock	market	0
+
+insufficient	computer	capacity	0
+
+federal	income	tax	0
+
+gross	national	product	0
+
+Warsaw	Pact	territory	1
+
+mechanical	engineering	industry	1
+
+Cypress	structure	viaduct	0
+
+October	American	Spectator	0
+
+executive	vice	president	0
+
+monthly	mortgage	payment	0
+
+Charter	Technologies	Inc	1
+
+wider	trade	deficit	0
+
+environmental	management	concern	1
+
+Sony	Columbia	Acquisition	0
+
+24	factory	outlet	0
+
+daily	news	review	0
+
+extensive	credit	operation	0
+
+Trenton	State	College	0
+
+despairing	East	Germans	0
+
+30	year	mortgage	1
+
+SHEARSON	LEHMAN	HUTTON	0
+
+auto	industry	analyst	1
+
+energy	future	broker	1
+
+old	gas	well	0
+
+European	auto	analyst	0
+
+Virgin	Islands	Aid	1
+
+interest	serial	bond	0
+
+Air	Inter	spokesman	1
+
+other	future	exchange	0
+
+Journal	staff	reporter	0
+
+hard	toilet	paper	0
+
+state	oil	company	0
+
+three	law	clerk	0
+
+Big	franchise	group	0
+
+first	six	month	0
+
+French	distribution	group	0
+
+Sandhills	Luncheon	Cafe	0
+
+single	optical	line	0
+
+former	Deputy	Mayor	0
+
+Panhandle	Eastern	Pipe	0
+
+government	auto	safety	0
+
+former	NOW	President	0
+
+grand	jury	investigation	1
+
+pristine	concrete	ramp	0
+
+narrow	tax	break	0
+
+Major	Markets	Index	1
+
+volatile	trading	session	0
+
+cardiac	bypass	patient	1
+
+five	major	bank	0
+
+Philadelphia	postmaster	Charles	1
+
+extraordinary	shareholder	assembly	0
+
+disaster	assistance	office	1
+
+Ross	Catherall	Group	1
+
+mechanical	trading	system	0
+
+additional	production	capacity	0
+
+crowded	bank	market	0
+
+same	safety	feature	0
+
+September	consumer	price	0
+
+three	other	director	0
+
+internal	intercom	system	0
+
+New	York	chain	1
+
+luxurious	life	style	0
+
+1986	tax	overhaul	0
+
+Southern	California	branch	1
+
+chief	executive	officer	0
+
+attorney	Joseph	Flom	0
+
+remote	Virginia	town	0
+
+Cleveland	Consulting	Associates	0
+
+valuable	funding	source	0
+
+record	sale	year	0
+
+industry	takeover	target	0
+
+gain	tax	cut	1
+
+other	likely	alternative	0
+
+still	university	researcher	0
+
+vast	federal	agency	0
+
+strong	earnings	gain	0
+
+Colonia	Versicherung	AG	1
+
+early	next	year	0
+
+associate	general	counsel	0
+
+East	Bloc	participant	1
+
+top	WCRS	executive	0
+
+new	TV	ad	0
+
+rival	Issak	clan	0
+
+Los	Alamos	laboratory	1
+
+National	League	pennant	1
+
+new	thrift	law	0
+
+chemical	price	retreat	1
+
+Individual	Investors	Advisory	1
+
+annual	autumn	increase	0
+
+outside	power	source	0
+
+new	stock	basket	0
+
+Sun	Hung	Kai	0
+
+electronic	trading	system	0
+
+Rockefeller	Brothers	Fund	1
+
+direct	mail	division	1
+
+lower	mortgage	rate	0
+
+Prime	Minister	Toshiki	1
+
+Philadelphia	Stock	Exchange	0
+
+next	18	month	0
+
+Home	Shopping	Network	1
+
+contract	health	service	0
+
+strong	earning	prospect	0
+
+higher	freight	rate	0
+
+Small	net	inflow	0
+
+new	business	venture	0
+
+three	discovery	well	0
+
+sexy	TV	commercial	0
+
+State	Development	Board	0
+
+direct	air	link	0
+
+new	power	plant	0
+
+Glacier	Bay	case	1
+
+remaining	fertilizer	plant	0
+
+mutant	virulence	gene	0
+
+Hutton	Ingram	Yuzek	0
+
+Ku	Klux	Klan	0
+
+past	30	day	0
+
+chief	credit	officer	0
+
+moderate	Republican	heritage	0
+
+certain	building	product	0
+
+veteran	campaign	consultant	0
+
+adequate	insurance	coverage	0
+
+Progressive	Architecture	magazine	1
+
+Open	Market	Committee	1
+
+Italian	car	manufacturer	0
+
+Other	retail	property	0
+
+Collateralized	Mortgage	Securities	0
+
+old	Victorian	house	0
+
+close	ethical	scrutiny	0
+
+small	gift	shop	0
+
+domestic	nuclear	plant	0
+
+separate	overcharge	prosecution	0
+
+15	executive	officer	0
+
+redeemable	loan	note	0
+
+overall	price	rise	0
+
+Persian	Gulf	country	1
+
+past	two	day	0
+
+New	York	ruling	1
+
+Maine	state	law	0
+
+monetary	crime	loss	1
+
+better	quality	assurance	0
+
+other	defensive	step	0
+
+subcommittee	Chairman	James	1
+
+First	Manhattan	Co	1
+
+Saudi	oil	minister	1
+
+good	working	condition	0
+
+Illinois	Commerce	Commission	0
+
+recent	agency	search	0
+
+telecommunication	management	system	0
+
+consumer	electronics	industry	1
+
+Khmer	Rouge	camp	1
+
+Indian	capital	market	0
+
+Japanese	banking	official	0
+
+campus	information	director	0
+
+impending	wage	talk	0
+
+Los	Angeles	investment	1
+
+business	development	concern	1
+
+missile	rocket	motor	1
+
+other	institutional	investor	0
+
+Maxwell	Communication	Corp	1
+
+Investment	Guarantee	Agency	1
+
+San	Diego	Yacht	1
+
+Soviet	military	official	0
+
+executive	vice	president	0
+
+senior	vice	president	0
+
+other	tax	benefit	0
+
+Professional	Investors	Report	1
+
+Big	Board	Chairman	1
+
+college	tuition	payment	1
+
+average	East	Germans	0
+
+Hong	Kong	property	1
+
+Military	Intelligence	Group	0
+
+new	management	team	0
+
+Jim	Beam	Brands	1
+
+electronic	information	system	0
+
+first	eight	month	0
+
+local	TV	station	0
+
+Karen	Fine	Coburn	0
+
+Kay	Jewelers	Inc	1
+
+comparable	lead	time	0
+
+Lucas	Industries	PLC	1
+
+major	lobbying	effort	0
+
+Bear	Stearns	share	1
+
+potential	Republican	candidate	0
+
+federal	appeal	court	0
+
+stock	manipulation	trial	1
+
+four	separate	project	0
+
+same	five	bell	0
+
+full	rating	point	0
+
+more	import	rise	0
+
+soulless	pod	people	0
+
+financial	staff	member	0
+
+Mary	Washington	College	1
+
+chief	executive	officer	0
+
+Columbia	University	physicist	1
+
+Saab	340B	turboprop	1
+
+genuine	local	color	0
+
+many	leisure	traveler	0
+
+major	oil	company	0
+
+Kim	Yoon	Kwon	0
+
+foreign	direct	investment	0
+
+589	midsized	supermarket	0
+
+Helen	Kramer	Landfill	1
+
+foreign	car	maker	0
+
+American	Airlines	worker	1
+
+foreign	tax	rate	0
+
+student	loan	program	1
+
+American	cocktail	party	0
+
+previous	reporting	period	0
+
+first	psyllium	shortage	0
+
+building	product	maker	1
+
+petroleum	future	trader	1
+
+Manufacturers	Hanover	Corp	1
+
+paid	ad	page	0
+
+Ladies	Home	Journal	0
+
+international	wire	transfer	0
+
+Hong	Kong	dollar	1
+
+chief	investment	strategist	0
+
+gourmet	food	court	0
+
+Accord	Inspire	model	1
+
+National	Power	division	1
+
+Thanksgiving	Day	Parade	1
+
+weak	capital	formation	0
+
+unspent	EDA	fund	0
+
+Virginia	Slims	cigarette	1
+
+Japanese	management	style	0
+
+archrival	Scandinavian	Airlines	0
+
+two	new	Remics	0
+
+Fidelity	vice	president	0
+
+discretionary	cash	flow	0
+
+overseas	creditor	bank	0
+
+FOREIGN	PRIME	RATES	0
+
+broken	water	pipe	0
+
+new	credit	agreement	0
+
+Battle	Mountain	Gold	1
+
+career	home	run	0
+
+original	TV	programming	0
+
+two	recent	test	0
+
+great	confirmation	hearing	0
+
+plastic	packing	material	0
+
+first	sale	period	0
+
+such	pop	invader	0
+
+free	yoga	class	0
+
+strong	buying	interest	0
+
+Camille	Chafic	Cotran	0
+
+free	companion	ticket	0
+
+Bermuda	Supreme	Court	0
+
+Red	Cross	donation	1
+
+news	wire	item	1
+
+next	lost	soul	0
+
+several	billion	dollar	0
+
+law	firm	management	1
+
+Navigation	Mixte	stake	1
+
+various	asseet	category	0
+
+shareholder	right	plan	1
+
+past	few	month	0
+
+Reliance	Group	Holdings	1
+
+law	school	graduate	1
+
+United	Nations	voting	1
+
+dated	stadium	contract	0
+
+private	wealth	creation	0
+
+higher	fuel	cost	0
+
+Most	banking	issue	0
+
+Radio	New	Zealand	0
+
+former	vice	president	0
+
+past	three	year	0
+
+new	superconductor	crystal	0
+
+higher	standard	deviation	0
+
+French	pharmaceutical	concern	0
+
+Carlos	Perches	Trevino	0
+
+single	court	decision	0
+
+Ivy	League	sheepskin	1
+
+big	printing	acquisition	0
+
+numerous	public	agency	0
+
+top	management	team	0
+
+Georgia	state	court	0
+
+Western	Union	security	1
+
+second	economic	miracle	0
+
+higher	equity	earnings	0
+
+greatest	trading	volume	0
+
+desirable	potential	customer	0
+
+chief	operating	officer	0
+
+vinyl	checkbook	cover	0
+
+defense	attorney	Tom	1
+
+giant	storage	tank	0
+
+Abortion	Rights	League	1
+
+Federal	Statistics	Office	0
+
+New	York	gallery	1
+
+Merabank	thrift	unit	0
+
+Hong	Kong	contractor	1
+
+sharp	sale	slump	0
+
+past	few	month	0
+
+Erle	Stanley	Gardner	0
+
+Canadian	Pacific	official	1
+
+trust	investment	fund	0
+
+interest	rate	trend	1
+
+reproductive	health	conference	1
+
+sudden	price	move	0
+
+Sass	Lamle	Rubin	0
+
+slight	earnings	improvement	0
+
+family	paper	work	0
+
+other	EC	country	0
+
+sophisticated	market	research	0
+
+slight	structural	damage	0
+
+previous	court	effort	0
+
+Soviet	ground	force	0
+
+mortgage	refinancing	plan	1
+
+junk	bond	market	1
+
+public	share	offering	0
+
+Lawyers	Title	Insurance	0
+
+other	KKR	director	0
+
+California	transportation	department	0
+
+unfair	testing	situation	0
+
+local	retail	economy	0
+
+several	drug	company	0
+
+greater	buying	interest	0
+
+three	consecutive	month	0
+
+executive	vice	president	0
+
+several	highlight	table	0
+
+open	market	committee	1
+
+empty	cockpit	seat	0
+
+big	price	swing	0
+
+18	Western	hostage	0
+
+Nihon	Keizai	Shinbun	0
+
+other	food	preparers	0
+
+established	horse	breeder	0
+
+Champs	executive	vice	0
+
+Professional	Marketing	Management	0
+
+Lone	Star	Beer	1
+
+Carnegie	Mellon	University	1
+
+Los	Angeles	Mayor	1
+
+Appropriations	Committee	leadership	1
+
+general	trade	agreement	0
+
+total	purchase	price	0
+
+financial	service	subsidiary	0
+
+UAL	blood	bath	0
+
+one	percentage	point	0
+
+Chevron	oil	project	0
+
+catalogue	showroom	unit	1
+
+computer	retail	company	1
+
+New	York	investor	1
+
+ad	agency	business	1
+
+public	health	point	1
+
+current	sale	pace	0
+
+good	political	sense	0
+
+short	attention	span	0
+
+new	government	security	0
+
+first	nine	month	0
+
+many	Japanese	bank	0
+
+National	Aerospace	Plane	0
+
+chief	information	officer	0
+
+fashion	image	business	1
+
+Ontario	Supreme	Court	0
+
+Della	Femina	McNamee	0
+
+unimproved	building	lot	0
+
+strategy	development	director	1
+
+Reagan	Navy	secretary	0
+
+defense	electronics	concern	1
+
+greater	health	risk	0
+
+Soviet	leader	Gorbachev	1
+
+second	key	contract	0
+
+mammoth	marketing	clout	0
+
+weekly	news	magazine	0
+
+Ralph	Ingersoll	II	1
+
+employee	stock	plan	0
+
+Harvard	Business	school	0
+
+New	Zealand	financier	1
+
+main	banking	unit	0
+
+rapid	cash	flow	0
+
+Several	Fed	governor	0
+
+compound	annual	return	0
+
+initial	press	run	0
+
+huge	leasing	firm	0
+
+K	mart	spokesman	1
+
+College	Football	Association	1
+
+food	service	concern	1
+
+Gabriel	Garcia	Marquez	0
+
+heavy	military	equipment	0
+
+Midland	Montagu	Securities	1
+
+major	industry	organization	0
+
+more	matching	fund	0
+
+more	presidential	support	0
+
+potential	takeover	candidate	0
+
+President	Carlos	Menem	0
+
+thrift	holding	company	0
+
+former	British	spy	0
+
+American	magazine	design	1
+
+Other	Real	Estate	0
+
+strong	cash	flow	0
+
+highest	such	level	0
+
+new	dual	listing	0
+
+sure	pro	stardom	0
+
+Burt	Hill	Kosar	0
+
+aggressive	growth	fund	0
+
+Other	credit	house	0
+
+corporate	finance	opportunity	0
+
+The	Nutt	House	0
+
+joint	manufacturing	agreement	0
+
+private	placement	department	0
+
+marginal	tax	rate	0
+
+automobile	catalytic	converter	0
+
+Metromedia	Long	Distance	0
+
+The	English	Flower	0
+
+1986	tax	provision	0
+
+even	winter	glove	0
+
+costly	safety	measure	0
+
+full	marketing	approval	0
+
+domestic	money	market	0
+
+more	rough	sailing	0
+
+Many	takeover	stock	0
+
+unimproved	building	lot	0
+
+ad	page	rate	1
+
+American	security	firm	0
+
+regulatory	paper	work	0
+
+Host	Ted	Koppel	0
+
+Mountain	Bike	Hall	1
+
+Jamaican	tourism	minister	0
+
+initial	bond	offering	0
+
+wheat	purchase	plan	1
+
+TV	production	company	1
+
+unfavorable	plea	bargain	0
+
+eight	other	state	0
+
+Oakland	grocery	retailer	0
+
+French	tobacco	market	0
+
+simpler	pricing	structure	0
+
+Class	B	stock	1
+
+same	age	group	0
+
+major	sport	event	0
+
+The	Privileged	Class	0
+
+quarterly	inflation	rate	0
+
+convertible	foreign	currency	0
+
+senior	deputy	manager	0
+
+chief	federal	regulator	1
+
+Societe	Generale	de	0
+
+great	metropolitan	area	0
+
+solo	law	practice	0
+
+New	York	writer	1
+
+stock	selling	pressure	1
+
+British	takeover	rule	0
+
+discount	brokerage	firm	0
+
+undistinguished	college	student	0
+
+onetime	medium	adviser	0
+
+Criminal	Investigation	Department	1
+
+Washington	consulting	firm	0
+
+New	York	newspaper	1
+
+Infrared	motion	detector	0
+
+Budget	Director	Darman	1
+
+inexorable	upward	trend	0
+
+gas	processing	facility	1
+
+untested	John	Major	0
+
+other	top	executive	0
+
+New	York	future	1
+
+Wall	Street	brokerage	1
+
+new	offshore	drilling	0
+
+international	financial	center	0
+
+ad	agency	network	1
+
+biological	weapon	facility	1
+
+suburban	office	market	0
+
+KLM	Royal	Dutch	0
+
+French	film	maker	0
+
+greatest	earnings	risk	0
+
+first	display	panel	0
+
+bank	trust	department	0
+
+First	Amendment	violation	1
+
+extensive	trial	experience	0
+
+Southwestern	Bell	Mobile	1
+
+pricey	lawn	decoration	0
+
+major	auditing	work	0
+
+Morgan	Stanley	Group	1
+
+household	rating	race	1
+
+food	price	rise	1
+
+black	advertising	executive	0
+
+major	farm	state	0
+
+private	relief	bill	1
+
+implicit	price	deflator	0
+
+Norfolk	Capital	Group	0
+
+ammonium	perchlorate	plant	1
+
+slowest	sale	growth	0
+
+extraordinary	loan	commission	0
+
+Dutch	truck	maker	0
+
+San	Francisco	voter	1
+
+several	window	balcony	0
+
+commission	house	buying	1
+
+new	chip	plant	0
+
+stock	exchange	collateral	1
+
+residential	Inwood	section	0
+
+healthy	regulatory	capital	0
+
+option	trading	loss	1
+
+French	chemical	giant	0
+
+glib	emotional	style	0
+
+home	delivery	circulation	1
+
+other	promising	prospect	0
+
+Philadelphia	Fed	spokeswoman	1
+
+public	bond	market	1
+
+Courtaulds	textile	operation	0
+
+chief	corporate	trader	0
+
+Many	fund	manager	0
+
+Undersecretary	Robert	Glauber	0
+
+African	military	tribunal	0
+
+loose	disclosure	requirement	0
+
+other	defense	contractor	0
+
+controlling	ownership	interest	0
+
+political	apple	cart	0
+
+significant	revenue	growth	0
+
+PLO	chief	Arafat	1
+
+favorable	harvest	weather	0
+
+overall	business	activity	0
+
+uninsured	premium	issue	0
+
+Even	abortion	opponent	0
+
+Simulated	golf	game	0
+
+Raymond	James	Associates	1
+
+other	bribery	scheme	0
+
+positive	advertising	spending	0
+
+American	real	estate	0
+
+Drexel	Burnham	Lambert	0
+
+new	medical	technology	0
+
+company	safety	director	0
+
+more	Jaguar	share	0
+
+robust	bull	market	0
+
+San	Francisco	ad	1
+
+past	five	year	0
+
+pet	Democratic	project	0
+
+Retired	Senior	Volunteer	0
+
+German	pharmaceutical	company	0
+
+passable	Tommy	Noonan	0
+
+most	treasury	secretary	0
+
+mortgage	security	sale	1
+
+industrial	infrastructure	engineering	1
+
+Communist	Party	chief	1
+
+major	construction	project	0
+
+major	California	bank	0
+
+total	research	budget	0
+
+disaffected	centrist	vote	0
+
+1992	model	year	1
+
+little	French	farmer	0
+
+Western	business	executive	0
+
+domestic	vehicle	operation	0
+
+largest	advertising	agency	0
+
+hurricane	disaster	area	1
+
+Shanghai	property	project	0
+
+special	enforcement	team	0
+
+other	rake	maker	0
+
+Theatre	Communications	Group	0
+
+Several	phone	call	0
+
+Home	Loan	Bank	1
+
+14	major	market	0
+
+commodity	chemical	concern	1
+
+past	seven	recession	0
+
+new	entertainment	division	0
+
+quiet	economic	science	0
+
+James	Capel	Inc	1
+
+special	tax	district	0
+
+other	grisly	killing	0
+
+New	York	presence	1
+
+other	consumer	durables	0
+
+one	last	entry	0
+
+Hong	Tu	Pyo	0
+
+short	right	field	0
+
+Canadian	government	agency	0
+
+much	deeper	pocket	0
+
+compromise	spending	bill	0
+
+white	blood	cell	0
+
+16	different	variety	0
+
+earlier	summary	judgment	0
+
+crude	oil	future	1
+
+active	drilling	rig	0
+
+human	cancer	cell	0
+
+official	reserve	asset	0
+
+major	producing	country	0
+
+big	majority	holder	0
+
+trade	credit	insurance	0
+
+percentage	wage	increase	0
+
+national	bimonthly	magazine	0
+
+Florence	Deposit	Bank	0
+
+City	Council	President	1
+
+dry	growing	condition	0
+
+global	environmental	problem	0
+
+family	banking	empire	0
+
+world	insurance	market	0
+
+chemical	coating	group	1
+
+group	managing	director	0
+
+Export	Promotion	Council	1
+
+big	import	binge	0
+
+Senate	Banking	Committee	0
+
+first	six	month	0
+
+Pacific	Crest	Trail	1
+
+Banque	Paribas	Capital	1
+
+Planar	President	James	1
+
+Metropolitan	Life	Insurance	0
+
+Duke	Law	Journal	0
+
+psychologist	Harry	Levinson	0
+
+drug	trafficking	charge	1
+
+natural	gas	industry	1
+
+Judith	Ramsey	Ehrlich	0
+
+United	Nations	Population	1
+
+college	radical	everywhere	0
+
+big	future	buying	0
+
+European	paper	industry	0
+
+soybean	future	trading	1
+
+state	statistical	office	0
+
+National	Steel	Corp	1
+
+awful	bureaucratic	creature	0
+
+stock	market	investor	1
+
+Commerce	Department	report	1
+
+Republican	House	attendance	0
+
+philosophic	bon	mot	0
+
+new	regional	contract	0
+
+institutional	index	fund	0
+
+Arctic	National	Wildlife	0
+
+several	industry	executive	0
+
+Federal	National	Mortgage	0
+
+computer	service	company	1
+
+large	liquid	issue	0
+
+Major	steel	producer	0
+
+Los	Angeles	agency	1
+
+anticipated	earnings	increase	0
+
+big	institutional	client	0
+
+annual	budget	labor	0
+
+Osaka	District	Court	0
+
+power	generation	opportunity	1
+
+America	West	Airlines	1
+
+Western	Union	spokesman	1
+
+British	theater	chain	0
+
+direct	technology	flow	0
+
+special	House	election	0
+
+Ateliers	de	Constructions	0
+
+lower	interest	rate	0
+
+Article	II	power	1
+
+chief	executive	officer	0
+
+tentative	contract	agreement	0
+
+Advanced	Tactical	Fighter	0
+
+one	sacred	rule	0
+
+Bay	Area	Rapid	1
+
+improved	oil	result	0
+
+Souper	Combo	product	1
+
+corporate	credit	problem	0
+
+intense	press	criticism	0
+
+same	harsh	standard	0
+
+federal	trial	court	0
+
+new	executive	model	0
+
+pretax	electronics	earnings	0
+
+past	20	year	0
+
+Nika	TV	company	1
+
+Maryland	Club	Foods	1
+
+similar	intellectual	interest	0
+
+Mario	Van	Peebles	0
+
+monthly	trade	gap	0
+
+daily	sale	rate	0
+
+cheap	floppy	disk	0
+
+American	International	Group	0
+
+World	Wide	Fund	1
+
+50	state	legislature	0
+
+proposed	holding	company	0
+
+most	paper	carrier	0
+
+major	law	firm	0
+
+Problem	Review	Board	0
+
+computer	data	base	0
+
+Middle	East	supply	1
+
+health	care	provider	1
+
+more	business	transaction	0
+
+topgrade	corporate	bond	0
+
+new	South	Africa	0
+
+Venture	Capital	Association	1
+
+further	price	drop	0
+
+UAL	stock	buyer	1
+
+The	Science	Police	0
+
+federal	district	court	0
+
+university	computer	specialist	0
+
+more	LIN	share	0
+
+Wells	Fargo	Bank	1
+
+One	investment	banker	0
+
+Beverly	Hills	style	1
+
+Fujitsu	President	Takuma	1
+
+Newport	Beach	telemarketers	1
+
+first	management	change	0
+
+prestigious	Rockefeller	research	0
+
+other	major	element	0
+
+defaulted	loan	guarantee	0
+
+junk	bond	market	1
+
+new	advertising	slogan	0
+
+London	Stock	Exchange	0
+
+Oppenheimer	Management	Corp	1
+
+weaker	housing	start	0
+
+option	trading	firm	1
+
+other	program	trader	0
+
+audio	disk	player	1
+
+Nguyen	Thi	Thi	0
+
+previous	bill	sale	0
+
+vast	middle	ground	0
+
+costly	safety	measure	0
+
+normal	trading	hour	0
+
+financial	processing	service	0
+
+Smith	Barney	analyst	1
+
+strong	balance	sheet	0
+
+commendable	reform	effort	0
+
+fallible	narrative	voice	0
+
+new	television	commercial	0
+
+Manhattan	Life	Insurance	0
+
+Chicago	Cubs	jacket	1
+
+celebrity	interview	program	1
+
+network	advertising	time	0
+
+pachinko	parlor	owner	1
+
+major	entertainment	powerhouse	0
+
+Turkish	refugee	tragedy	1
+
+one	redeeming	quality	0
+
+hottest	growth	area	0
+
+American	business	history	0
+
+Comprehensive	Care	director	1
+
+hostile	tender	offer	0
+
+former	Nixon	aide	0
+
+luxury	Infiniti	division	0
+
+major	art	collection	0
+
+chief	operating	officer	0
+
+new	cassette	player	0
+
+broader	market	index	0
+
+Indian	Ocean	ally	1
+
+affected	government	entity	0
+
+Eurovision	Song	Contest	0
+
+other	company	office	0
+
+money	market	fund	1
+
+fiscal	1990	budget	1
+
+first	two	roll	1
+
+new	government	agency	0
+
+emergency	highway	assistance	0
+
+stricter	abortion	curb	0
+
+new	benefit	plan	0
+
+chief	credit	officer	0
+
+Le	Petit	Bang	0
+
+television	programming	operation	0
+
+semiconductor	research	project	0
+
+Japanese	auto	maker	0
+
+CIA	Director	William	1
+
+elegant	crystal	chandelier	0
+
+White	House	spokesman	1
+
+La	Jolla	Bank	1
+
+favorable	newsprint	price	0
+
+Advanced	Micro	Devices	0
+
+next	few	month	0
+
+life	insurance	stock	1
+
+assorted	European	country	0
+
+two	Canadian	plant	0
+
+other	investment	house	0
+
+Nippon	Signal	Co	1
+
+sturdy	oak	tree	0
+
+delicate	antique	desk	0
+
+excess	heat	production	0
+
+Eastern	Europe	aid	1
+
+Extension	Service	grant	1
+
+Prime	Minister	Lee	1
+
+Mid	Kansas	Federal	1
+
+garden	design	method	1
+
+chief	executive	officer	0
+
+real	estate	loan	1
+
+fundamental	stock	picker	0
+
+even	service	contract	0
+
+past	two	year	0
+
+China	General	Plastics	0
+
+Kent	cigarette	filter	0
+
+Business	Council	forecast	1
+
+Higher	oil	price	0
+
+definitive	purchase	agreement	0
+
+delicate	spinal	tissue	0
+
+deputy	creative	director	0
+
+federal	grand	jury	0
+
+tire	unit	sale	1
+
+certain	insurance	company	0
+
+Church	Bell	Ringers	1
+
+significant	price	change	0
+
+United	Scientific	unit	1
+
+United	Airlines	parent	1
+
+New	Jersey	Division	1
+
+large	gold	reserve	0
+
+10	separate	subsidiary	0
+
+Koito	Manufacturing	Co	1
+
+common	area	charge	0
+
+Taiwanese	petrochemical	manufacturer	0
+
+pachinko	parlor	industry	1
+
+laggard	food	issue	0
+
+government	contract	business	0
+
+central	railway	station	0
+
+income	tax	payment	1
+
+major	investment	firm	0
+
+local	brokerage	firm	0
+
+Cuban	sugar	harvest	0
+
+journalist	George	Urban	0
+
+exhausting	ideological	fight	0
+
+Sioux	City	Airport	1
+
+real	estate	financier	0
+
+Hanshin	Electric	Railway	0
+
+special	night	session	0
+
+Lutheran	Church	official	1
+
+European	computer	brand	0
+
+fat	interest	payment	0
+
+state	trial	judge	0
+
+Hong	Kong	arm	1
+
+own	proprietary	operating	0
+
+only	minor	damage	0
+
+former	Wang	salesman	0
+
+Japanese	discount	rate	0
+
+Hun	Sen	regime	1
+
+most	EC	leader	0
+
+net	exchange	rate	0
+
+banker	Edmond	Safra	0
+
+CAC	General	Index	0
+
+international	bond	market	1
+
+MEDICINE	SHOPPE	INTERNATIONAL	0
+
+Justice	spokesman	David	1
+
+weekly	market	commentary	0
+
+Several	phone	call	0
+
+strip	shopping	center	0
+
+future	economic	development	0
+
+group	vice	president	0
+
+low	average	volatility	0
+
+parallel	federal	examination	0
+
+more	brand	choice	0
+
+executive	vice	president	0
+
+major	cosmetic	company	0
+
+consultant	Noble	Lowndes	0
+
+several	executive	responsibility	0
+
+annual	crime	loss	0
+
+Machine	tool	executive	1
+
+A	Christmas	Carol	0
+
+Newgate	Management	Associates	0
+
+first	jury	verdict	0
+
+first	six	month	0
+
+additional	retailing	investment	0
+
+additional	grain	sale	0
+
+other	crash	study	0
+
+air	separation	plant	0
+
+Michigan	State	University	0
+
+management	equity	participation	0
+
+Bush	administration	aide	1
+
+McAlpine	family	interest	1
+
+stock	purchase	agreement	1
+
+Texas	oil	men	0
+
+Massachusetts	senate	committee	0
+
+cable	TV	company	1
+
+key	congressional	regulator	0
+
+former	patent	lawyer	0
+
+pipeline	liability	fund	0
+
+recent	news	story	0
+
+later	news	conference	0
+
+CIA	contractor	Mitre	1
+
+many	domestic	buyer	0
+
+PrimeTime	calling	plan	0
+
+Robert	Louis	Stevenson	0
+
+State	thrift	examiner	0
+
+new	corporate	interest	0
+
+government	bond	issue	1
+
+lower	rate	increase	0
+
+Orange	County	Register	1
+
+stormy	weekend	meeting	0
+
+lowest	average	score	0
+
+rapid	real	growth	0
+
+Dick	Tracy	strip	1
+
+home	improvement	product	1
+
+current	account	deficit	0
+
+three	drug	approval	0
+
+criminal	defense	lawyer	1
+
+undamaged	California	refinery	0
+
+Iraqi	oil	minister	0
+
+Mutual	Automobile	Insurance	0
+
+dense	Jovian	atmosphere	0
+
+Riviera	luxury	car	0
+
+emergency	investment	advice	0
+
+senior	Politburo	official	0
+
+prevailing	interest	rate	0
+
+lucrative	rerun	sale	0
+
+Irish	airport	authority	0
+
+stable	exchange	rate	0
+
+general	emergency	aid	0
+
+Scotto	report	station	0
+
+most	trading	firm	0
+
+natural	gas	price	1
+
+optical	storage	device	1
+
+former	stock	speculator	1
+
+many	music	star	0
+
+Finance	Ministry	employee	1
+
+individual	retirement	account	0
+
+fiscal	1990	bill	0
+
+past	30	day	0
+
+famous	specialty	shop	0
+
+stock	market	disturbance	1
+
+limited	crankcase	ventilation	0
+
+Marie	Callender	Pie	1
+
+television	entertainment	system	0
+
+management	investment	company	0
+
+next	two	year	0
+
+reinvestment	act	compliance	1
+
+favorable	brokerage	recommendatons	0
+
+last	minute	reprieve	1
+
+Vanderbilt	University	finance	1
+
+Social	Security	number	0
+
