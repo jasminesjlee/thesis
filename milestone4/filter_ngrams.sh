@@ -2,8 +2,8 @@
 
 declare -a ngram_folders=(
 "/nlp/data/corpora/LDC/LDC2006T13/data/3gms"
-"/nlp/data/corpora/LDC/LDC2006T13/data/4gms/*"
-"/nlp/data/corpora/LDC/LDC2006T13/data/5gms/*"
+"/nlp/data/corpora/LDC/LDC2006T13/data/4gms"
+"/nlp/data/corpora/LDC/LDC2006T13/data/5gms"
 )
 
 declare -a template_files=(
