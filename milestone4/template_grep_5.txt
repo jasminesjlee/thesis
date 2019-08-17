@@ -1,14 +1,7 @@
 ${w2} [a-zA-Z]+ ${w1} [a-zA-Z]+ [a-zA-Z]+
-${w3} [a-zA-Z]+ ${w2} [a-zA-Z]+ [a-zA-Z]+
 ${w2} [a-zA-Z]+ [a-zA-Z]+ ${w1} [a-zA-Z]+
-${w3} [a-zA-Z]+ [a-zA-Z]+ ${w2} [a-zA-Z]+
 ${w2} [a-zA-Z]+ [a-zA-Z]+ [a-zA-Z]+ ${w1}
-${w3} [a-zA-Z]+ [a-zA-Z]+ [a-zA-Z]+ ${w2}
 [a-zA-Z]+ ${w2} [a-zA-Z]+ ${w1} [a-zA-Z]+
-[a-zA-Z]+ ${w3} [a-zA-Z]+ ${w2} [a-zA-Z]+
 [a-zA-Z]+ ${w2} [a-zA-Z]+ [a-zA-Z]+ ${w1}
-[a-zA-Z]+ ${w3} [a-zA-Z]+ [a-zA-Z]+ ${w2}
 [a-zA-Z]+ [a-zA-Z]+ ${w2} [a-zA-Z]+ ${w1}
-[a-zA-Z]+ [a-zA-Z]+ ${w3} [a-zA-Z]+ ${w2}
 ${w1} [a-zA-Z]+ [a-zA-Z]+ [a-zA-Z]+ ${w2}
-${w2} [a-zA-Z]+ [a-zA-Z]+ [a-zA-Z]+ ${w3}
