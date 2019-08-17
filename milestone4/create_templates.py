@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 if __name__=='__main__':
     with open("templates.txt") as f:
-        out3 = open("template_grep_3.txt", 'w')
-        out4 = open("template_grep_4.txt", 'w')
-        out5 = open("template_grep_5.txt", 'w')
-        lemmas = open("all_lemmas.txt", 'w')
+        out3 = open("template_grep_3.txt")
+        out4 = open("template_grep_4.txt")
+        out5 = open("template_grep_5.txt")
+        lemmas = open("all_lemmas.txt")
         out_new = open("new_templates.txt", 'w')
         for f in [out3, out4, out5]:
             for line in f:
