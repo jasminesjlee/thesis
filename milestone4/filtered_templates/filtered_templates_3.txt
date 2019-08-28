@@ -1,0 +1,7 @@
+[w2] ADP [w1]
+[w2] VERB [w1]
+[w2] PART [w1]
+[w2] NOUN [w1]
+[w2] DET [w1]
+[w2] ADJ [w1]
+[w2] PRON [w1]

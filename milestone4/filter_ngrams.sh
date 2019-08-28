@@ -7,9 +7,9 @@ declare -a ngram_folders=(
 )
 
 declare -a template_files=(
-"template_grep/template_grep_3.txt"
-"template_grep/template_grep_4.txt"
-"template_grep/template_grep_5.txt"
+"/home1/l/leesunj/thesis/milestone4/new_templates_3.txt"
+"/home1/l/leesunj/thesis/milestone4/new_templates_4.txt"
+"/home1/l/leesunj/thesis/milestone4/new_templates_5.txt"
 )
 
 declare -a write_files=(
@@ -30,5 +30,5 @@ do
     # iterate through all templates: of form '${w1} [a-zA-Z]+ {w2}'
     # get each noun phrase
     # extract all occurrences of the noun phrase with the template
-    zcat $ngram_folder/* | grep -f "$t1" >> $write_file
+    zcat $ngram_folder/* | grep -fE "$t1" >> $write_file
 done
