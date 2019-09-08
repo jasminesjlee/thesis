@@ -40,3 +40,5 @@
 : I wanted to use explicating the relation among words of a noun phrase as a feature in order to improve noun bracketing (left or right) of 3 word noun compounds. The feature would be, for a given [w1] [w2] [w3], to use how often [w1] [w2] fits the given templates versus how often [w2] [w3] fits the given templates. This script extracts this feature.
 - **filter_ngrams.sh**
 : A bash script that extracts the 3grams, 4grams, and 5grams that start with words in "train_data_tokens.txt". For a given 3-word noun phrase [w1] [w2] [w3], I wanted to retrieve all n-grams that start with either [w2] or [w3], so I include all words that occur at least once as [w2] or [w3] in the train_data_tokens.txt file.
+- **extract_features.py**
+: A python script that extracts the feature vector for each noun phrase. The feature vector consists of a vector representing the templates used for each word pair (w1, w2) of each three-word noun phrase [w1] [w2] [w3], as well as the sum of the Glove embeddings.
